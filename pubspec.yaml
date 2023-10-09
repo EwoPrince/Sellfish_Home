@@ -29,10 +29,10 @@ dev_dependencies:
 flutter_icons:
   android: false
   ios: false
-  image_path: "assets/Self.png"
+  image_path: "assets/splash.png"
   web:
     generate: true
-    image_path: "assets/Self.png"
+    image_path: "assets/splash.png"
     background_color: "#000000"
 
 
